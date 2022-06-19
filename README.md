@@ -10,5 +10,5 @@ You can click the Preview link to take a look at your changes.
 --->
  i made this website using pure html and css.
  you can use any laptop or pc for run this code with sutaible ide like vs code .
- thank you
+ thank you.
  
